@@ -366,7 +366,7 @@ a {
 
 }
 
-.project-card:hover .portfolio-cover-container {
+.portfolio-cover-container:hover .portfolio-cover-text {
         transform: translateY(0);
 
 }
