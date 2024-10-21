@@ -424,7 +424,6 @@ a {
 
 .footer-container {
         display: flex;
-        margin-right: 120px;
 
         gap: 120px;
         justify-content: flex-start;
@@ -480,6 +479,10 @@ a {
 .footer-social-list {
         display: flex;
         gap: 16px;
+}
+
+.footer-logo-container {
+        margin-right: 120px;
 }
 
 .footer-social-item {
