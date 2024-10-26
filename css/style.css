@@ -366,10 +366,12 @@ a {
 
 }
 
-.portfolio-cover-container:hover .portfolio-cover-text {
+.project-card:hover:hover .portfolio-cover-text {
         transform: translateY(0);
 
 }
+
+.portfolio-info:hover {}
 
 .portfolio-cover-container {
         position: relative;
@@ -425,7 +427,7 @@ a {
 .footer-container {
         display: flex;
 
-        gap: 120px;
+        width: 100;
         justify-content: flex-start;
         align-items: baseline;
 }
@@ -458,9 +460,9 @@ a {
 
 
 .footer-social-box {
-        /* display: flex; */
+
         gap: 24px;
-        margin: 0 auto;
+
         padding-top: 0;
         flex-shrink: 0;
         justify-content: center;
